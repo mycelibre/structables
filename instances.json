@@ -60,5 +60,15 @@
             "url": "https://franklyflawless.org"
         },
         "location": "DE"
+    },
+    {
+        "name": "structables.utilibre.org",
+        "url": "https://structables.utilibre.org",
+        "type": "clearnet",
+        "provider": {
+            "name": "Utilibre",
+            "url": "https://utilibre.org"
+        },
+        "location": "DE"
     }
 ]
